@@ -4,13 +4,11 @@ _A simple and minimalistic pin lock screen that incorporates material design ele
 
 Google's [material design standards](https://material.io/design/motion/#usage) recommands adding motion and animation to a user interface to provide timely feedback and status of user actions.
 
-With a PIN lock screen, animations can be used to confirm successful numpad inputs, as well as succesful or unsuccesful password entries.
+With a PIN lock screen, animations can be used to confirm successful numpad inputs, as well as successful or unsuccessful password entries.
 
 <br>
 
-<img src="https://img.shields.io/badge/minSdkVersion-21-red.svg?style=true" alt="minSdkVersion 21" data-canonical-src="https://img.shields.io/badge/minSdkVersion-24-red.svg?style=true" style="max-width:100%;">
-
-<img src=https://img.shields.io/badge/compileSdkVersion-28-brightgreen.svg alt="compileSdkVersion 28" data-canonical-src="https://img.shields.io/badge/compileSdkVersion-27-yellow.svg?style=true" style="max-width:100%;">
+<img src="https://img.shields.io/badge/minSdkVersion-21-red.svg?style=true" alt="minSdkVersion 21" data-canonical-src="https://img.shields.io/badge/minSdkVersion-24-red.svg?style=true" style="max-width:100%;"> <img src=https://img.shields.io/badge/compileSdkVersion-28-brightgreen.svg alt="compileSdkVersion 28" data-canonical-src="https://img.shields.io/badge/compileSdkVersion-27-yellow.svg?style=true" style="max-width:100%;">
 
 ## PinLockScreen in action
 
